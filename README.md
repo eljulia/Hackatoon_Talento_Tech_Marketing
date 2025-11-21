@@ -1,6 +1,8 @@
 # 🚀 VisualBit AI | Sistema de Inteligencia de Clientes  
 ### Hackathon Quindío 2025  
 Solución tecnológica para la desconexión entre Marketing y Ventas.
+ENLACE SOLUCION EN FOIREBASE
+https://8501-firebase-api-1763743222195.cluster-dwvm25yncracsxpd26rcd5ja3m.cloudworkstations.dev/
 
 ---
 
